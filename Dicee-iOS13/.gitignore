@@ -1,0 +1,46 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcworkspace/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# Derived Data & Build Artifacts
+DerivedData/
+Build/
+*.app
+*.ipa
+*.dSYM
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Firebase & Crashlytics
+GoogleService-Info.plist
+Crashlytics/
+
+# Environment Variables & Secrets
+*.env
+*.xcconfig
+
+# Other Files
+.idea/
+*.swp
